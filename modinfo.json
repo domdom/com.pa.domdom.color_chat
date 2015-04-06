@@ -1,0 +1,18 @@
+{
+    "author": "domdom",
+    "build": "79600",
+    "context": "client",
+    "date": "2015/03/31",
+    "description": "Colorises team message chat",
+    "display_name": "Team Colored Chat",
+    "forum": "",
+    "identifier": "com.pa.domdom.color_chat",
+    "version": "1.0.1",
+    "category": ["ui", "in-game"],
+    "priority": 100,
+    "scenes": {
+        "live_game_chat":   ["/live_game_chat.js"],
+        "live_game":        ["/live_game.js"]
+    },
+    "enabled": true
+}
