@@ -1,11 +1,11 @@
 {
-    "author": "domdom",
+    "author": "dom314",
     "build": "79600",
     "context": "client",
     "date": "2015/04/07",
     "description": "Adds team color indicator to messages in global chat.",
     "display_name": "Team Colored Chat",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-client-team-colored-chat.68498/",
     "identifier": "com.pa.domdom.color_chat",
     "version": "1.0.0",
     "category": ["ui", "in-game"],
