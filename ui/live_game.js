@@ -13,6 +13,6 @@ model.player_color_index = ko.computed(function() {
 			};
 		}
 	}
-	api.panels.chat.message('update_player_color_index', primary_map);
+	api.panels.chat && api.panels.chat.message('update_player_color_index', primary_map);
 	return primary_map;
 });
