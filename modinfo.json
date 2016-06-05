@@ -1,23 +1,23 @@
 {
     "author": "dom314",
-    "build": "89755",
+    "build": "94684",
     "context": "client",
-    "date": "2016/01/09",
+    "date": "2016/06/05",
     "description": "Adds team color indicator to global messages the live game's chat.",
     "display_name": "Team Colored Chat",
     "icon" : "http://i.imgur.com/fySORhL.png",
     "forum": "https://forums.uberent.com/threads/rel-client-team-colored-chat.68498/",
     "identifier": "com.pa.domdom.color_chat",
-    "version": "1.1.1",
-    "category": ["ui", "in-game"],
-    "product": [
-        "Titans",
-        "Classic"
+    "version": "1.1.2",
+    "signature" : " ",
+    "category": [
+        "classic",
+        "titans",
+        "ui",
+        "gameplay"
     ],
-    "priority": 100,
     "scenes": {
         "live_game_chat":   ["/live_game_chat.js"],
         "live_game":        ["/live_game.js"]
-    },
-    "enabled": true
+    }
 }
